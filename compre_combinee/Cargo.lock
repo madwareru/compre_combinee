@@ -2,12 +2,12 @@
 # It is not intended for manual editing.
 [[package]]
 name = "compre_combinee"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "proc_monadde_macro_combinee",
 ]
 
 [[package]]
 name = "proc_monadde_macro_combinee"
-version = "0.1.1"
-source = "git+https://github.com/madwareru/proc_monadde_macro_combinee#e0f361b053f5938688344ae523c0dc41faf3da1d"
+version = "0.1.2"
+source = "git+https://github.com/madwareru/proc_monadde_macro_combinee#26e17335cb6b9f146ee47e575ac620667c867bf2"
